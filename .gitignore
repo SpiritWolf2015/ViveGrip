@@ -27,3 +27,35 @@ sysinfo.txt
 
 .vs
 .vscode
+ViveGrip.exe
+Assembly-CSharp-firstpass.dll
+Assembly-CSharp.dll
+Mono.Security.dll
+System.Core.dll
+System.dll
+UnityEngine.Networking.dll
+UnityEngine.UI.dll
+UnityEngine.dll
+UnityEngine.dll.mdb
+mscorlib.dll
+DefaultWsdlHelpGenerator.aspx
+machine.config
+Compat.browser
+settings.map
+web.config
+browscap.ini
+config
+config.xml
+mono.dll
+openvr_api.dll
+unity default resources
+unity_builtin_extra
+globalgamemanagers
+globalgamemanagers.assets
+level0
+output_log.txt
+resources.assets
+sharedassets0.assets
+sharedassets0.assets.resS
+player_win_x64.pdb
+player_win_x64_s.pdb
